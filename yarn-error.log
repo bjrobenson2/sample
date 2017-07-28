@@ -6201,5 +6201,5 @@ Lockfile:
     resolved "http://registry.npm.taobao.org/yeast/download/yeast-0.1.2.tgz#008e06d8094320c372dbc2f8ed76a0ca6c8ac419"
 
 Trace: 
-  Error: EPROTO: protocol error, symlink '../../../babylon/bin/babylon.js' -> '/home/vagrant/Code/sample/node_modules/babel-core/node_modules/.bin/babylon'
+  Error: EPROTO: protocol error, symlink '../../../acorn/bin/acorn' -> '/home/vagrant/Code/sample/node_modules/astw/node_modules/.bin/acorn'
       at Error (native)
